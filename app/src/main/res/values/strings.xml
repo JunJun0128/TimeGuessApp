@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">jikan</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_activity_success">Success</string>
+    <string name="title_activity_fail">Fail</string>
+</resources>
